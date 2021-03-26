@@ -1,0 +1,12 @@
+language: node_js
+
+node_js:
+  - 12.18.0
+  
+script: 
+  - npm run test
+
+notification:
+  email: 
+    - rhpessoa29@gmail.com
+    - ufrapl21@gmail.com
